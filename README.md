@@ -1,0 +1,3 @@
+Blocky – A Python board game made using Pygame. Can be played with one player and AI or with 2 players. The board is made up of different coloured squares that make up bigger “blocks”, where each block is divided into 4 squares. In one game mode, the objective is to get the biggest block of your colour. Players can manipulate blocks by rotating, smashing a square into smaller squares, painting a square, or combining blocks. High use of recursion, as blocks are made up of smaller squares.
+
+To play, run the game.py file. You can comment out and uncomment the lines at the bottom to select the game mode. Pay attention to the objective written at the bottom of the screen when you start the game. The objective is randomized every time you play.
